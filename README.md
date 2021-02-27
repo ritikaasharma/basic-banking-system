@@ -1,6 +1,6 @@
 
 # A basic banking website
-A basic banking system made under the #GRIPFEB21 internship program as a Web Developing intern at The Sparks Foundation.
+A basic banking system made under the #GRIPFEB21 internship program as a Web Developer intern at The Sparks Foundation.
 
 Flow of website: Home Screen > View all Customers> Select and View
 one Customer> Transfer Money> Select customer to transfer
