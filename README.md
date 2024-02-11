@@ -11,4 +11,4 @@ Stack used:
   Backend: PHP  
   Database used: MySQL  
 
-Website link: https://so-called-levers.000webhostapp.com/index.php
+Overview youtube video: https://www.youtube.com/watch?v=EMzYK1i8kHY&t=12s
